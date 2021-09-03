@@ -1,1 +1,1 @@
-# merge-intent-test. 
+# merge-intent-test
